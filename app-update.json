@@ -1,0 +1,99 @@
+{
+    "version":  "构建 2026.06.07 23:51",
+    "buildTimeUtc":  "2026-06-07T15:51:25.5798712Z",
+    "forceUpdate":  true,
+    "noticeTitle":  "SharpMTKClient 强制更新",
+    "notice":  "本次更新隐藏自动更新调试日志中的下载 URL：资源和本体下载只显示节点序号、文件名和进度，不再暴露 raw 地址或代理地址。",
+    "files":  [
+                  {
+                      "path":  "app/BouncyCastle.Cryptography.dll",
+                      "target":  "BouncyCastle.Cryptography.dll",
+                      "size":  4694688,
+                      "sha256":  "d9a58c84baa55a12684cd2381bca03c8f2a9cbae21a6bf1e9ebd65f495629721"
+                  },
+                  {
+                      "path":  "app/DotNetZip.dll",
+                      "target":  "DotNetZip.dll",
+                      "size":  472064,
+                      "sha256":  "8e9c0362e9bfb3c49af59e1b4d376d3e85b13aed0fbc3f5c0e1ebc99c07345f3"
+                  },
+                  {
+                      "path":  "app/LibUsbDotNet.LibUsbDotNet.dll",
+                      "target":  "LibUsbDotNet.LibUsbDotNet.dll",
+                      "size":  156672,
+                      "sha256":  "b6de87ff6fdde6d0a245ef37fe81fac49523c35115c61bc002e4935d99875508"
+                  },
+                  {
+                      "path":  "app/Microsoft.Bcl.HashCode.dll",
+                      "target":  "Microsoft.Bcl.HashCode.dll",
+                      "size":  26920,
+                      "sha256":  "3a4e851ee5fc0f6182aa5a3d65dc56fcd6979b65334b5c3b92fbdc791457c0ab"
+                  },
+                  {
+                      "path":  "app/Newtonsoft.Json.dll",
+                      "target":  "Newtonsoft.Json.dll",
+                      "size":  711952,
+                      "sha256":  "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d"
+                  },
+                  {
+                      "path":  "app/SharpMTKClient.exe",
+                      "target":  "SharpMTKClient.exe",
+                      "size":  5923328,
+                      "sha256":  "9206bbb3c8208b35ffb625744171d9722eee26b7599747d6bb3cfd6f399b58fa"
+                  },
+                  {
+                      "path":  "app/SharpMTKClient.exe.config",
+                      "target":  "SharpMTKClient.exe.config",
+                      "size":  544,
+                      "sha256":  "94cb00965eebe3026a44cf49dbb10324e12ab455997b4a68af78f66304d2e30f"
+                  },
+                  {
+                      "path":  "app/System.Buffers.dll",
+                      "target":  "System.Buffers.dll",
+                      "size":  23816,
+                      "sha256":  "2d78d770c9cb997199154ae8c018b9f1d1efbc86729f7264dde6dbad2a12cac3"
+                  },
+                  {
+                      "path":  "app/System.Collections.Immutable.dll",
+                      "target":  "System.Collections.Immutable.dll",
+                      "size":  253200,
+                      "sha256":  "6249208ca2914e5c761bc1e55355844b72ecbea28b042d96ad36356a1af619c6"
+                  },
+                  {
+                      "path":  "app/System.Formats.Nrbf.dll",
+                      "target":  "System.Formats.Nrbf.dll",
+                      "size":  71472,
+                      "sha256":  "6c5b0a96b5743401a14c202d0b2e61f96acd6e0c8fee47f2afd4c5b4cec2cbe8"
+                  },
+                  {
+                      "path":  "app/System.Memory.dll",
+                      "target":  "System.Memory.dll",
+                      "size":  145200,
+                      "sha256":  "d5e8e4866f9cfa66f7765660f84b210198893e55335487afe5ebda342c0e913d"
+                  },
+                  {
+                      "path":  "app/System.Numerics.Vectors.dll",
+                      "target":  "System.Numerics.Vectors.dll",
+                      "size":  110344,
+                      "sha256":  "20c2fa81b8c70d651099d762954f285fd4f942e63b2d7217c145dab8d4b2f4c9"
+                  },
+                  {
+                      "path":  "app/System.Reflection.Metadata.dll",
+                      "target":  "System.Reflection.Metadata.dll",
+                      "size":  515336,
+                      "sha256":  "370ee436edaeed3cbc49b922d56e7f797c2ae189aaeb22f215bfc527d92a2ef0"
+                  },
+                  {
+                      "path":  "app/System.Resources.Extensions.dll",
+                      "target":  "System.Resources.Extensions.dll",
+                      "size":  115984,
+                      "sha256":  "248186e45fdb34393fc067fe0598002d5d5d602264a46e61b3e579aa73afaaf6"
+                  },
+                  {
+                      "path":  "app/System.Runtime.CompilerServices.Unsafe.dll",
+                      "target":  "System.Runtime.CompilerServices.Unsafe.dll",
+                      "size":  19256,
+                      "sha256":  "08cbd7278b66f1e68425a82d4b97181a4130d93e3dd91831407aba7212ccdacf"
+                  }
+              ]
+}
