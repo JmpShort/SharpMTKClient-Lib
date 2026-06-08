@@ -1,9 +1,9 @@
 {
-    "version":  "构建 2026.06.07 23:51",
-    "buildTimeUtc":  "2026-06-07T15:51:25.5798712Z",
+    "version":  "构建 2026.06.08 20:13",
+    "buildTimeUtc":  "2026-06-08T12:13:18.2007880Z",
     "forceUpdate":  true,
     "noticeTitle":  "SharpMTKClient 强制更新",
-    "notice":  "本次更新隐藏自动更新调试日志中的下载 URL：资源和本体下载只显示节点序号、文件名和进度，不再暴露 raw 地址或代理地址。",
+    "notice":  "本次更新添加高通读取分区时自动生成 patch?.xml，并同步 Beta 结构主分支后的最新高通布局、rawprogram、自动更新与本地 Sign 修复。",
     "files":  [
                   {
                       "path":  "app/BouncyCastle.Cryptography.dll",
@@ -38,8 +38,8 @@
                   {
                       "path":  "app/SharpMTKClient.exe",
                       "target":  "SharpMTKClient.exe",
-                      "size":  5923328,
-                      "sha256":  "9206bbb3c8208b35ffb625744171d9722eee26b7599747d6bb3cfd6f399b58fa"
+                      "size":  5924352,
+                      "sha256":  "3a6f316ce2e9fa6d8f00b3e4b8001490e1c151a502fced5bf39f7f949959f92f"
                   },
                   {
                       "path":  "app/SharpMTKClient.exe.config",
